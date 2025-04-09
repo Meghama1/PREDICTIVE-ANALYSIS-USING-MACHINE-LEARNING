@@ -32,3 +32,9 @@ Before applying machine learning models, the dataset typically undergoes preproc
 
 ### Impact:
 Predictive analysis on the wine quality dataset can provide significant benefits, including improving the consistency of wine production, reducing costs associated with manual quality control, and enhancing customer satisfaction by aligning production with predicted wine quality.
+
+# output
+
+![Image](https://github.com/user-attachments/assets/b4edd4ac-3ad1-494e-8ae7-3d4bd15aada4)
+
+![Image](https://github.com/user-attachments/assets/074de4fe-b1c0-4ddb-bb78-edb7f3766812)
